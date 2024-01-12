@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @renanpan
+- 👋 Hi, I’m Renan Pan @renanpan
 - 👀 I’m interested in data analysis content and data science content
 - 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on data analysis projects
