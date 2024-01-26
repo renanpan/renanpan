@@ -6,6 +6,5 @@ Além do github, pode encontrar mais do meu perfil profissional no linkedin http
 
 
 <!---
-renanpan/renanpan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Preciso ver para atualizar com mais informações. Ainda está fraco.
 --->
