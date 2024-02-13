@@ -1,9 +1,12 @@
 Olá, meu nome é Renan Pan, sou analista de dados e é um prazer em te ver por aqui.
 
-Meus interesses envolvem a análise de dados utilizando a linguagem Python, juntamente a visualização e análise estatística para encontrar tendências. Lido com bancos de dados através da linguagem SQL. Trabalho também com Power BI ou Tableau para análise e elaboração de dashboards que podem ser utilizados em relatórios para empresas.
+Meu foco profissional está na análise de dados utilizando Python, onde aplico técnicas de visualização e análise estatística para identificar tendências significativas. Tenho experiência em lidar com bancos de dados usando SQL e utilizo ferramentas como Power BI e Tableau para criar dashboards interativos que fornecem insights valiosos para empresas.
 
-Além do github, pode encontrar mais do meu perfil profissional no linkedin https://www.linkedin.com/in/renan-pan-15b4abbb/
+Além disso, como participante do bootcamp de análise de dados da TripleTen, já concluí 11 projetos abrangendo diversas áreas, como ETL, cohorts, análise estatística, automação e machine learning.
 
+Além do github, pode encontrar mais do meu perfil profissional no Linkedin https://www.linkedin.com/in/renan-pan/
+
+Estou sempre aberto para colaborações e trocas de experiências na área de análise de dados.
 
 <!---
 Preciso ver para atualizar com mais informações. Ainda está fraco.
