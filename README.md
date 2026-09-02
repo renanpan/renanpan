@@ -1,21 +1,16 @@
-## Olá, meu nome é Renan Pan, sou analista de dados e é um prazer em te ver por aqui.
-
-- Meu foco profissional está na análise de dados utilizando Python, onde aplico técnicas de visualização e análise estatística para identificar tendências significativas. Tenho experiência em lidar com bancos de dados usando SQL e utilizo ferramentas como Power BI e Tableau para criar dashboards interativos que fornecem insights valiosos para empresas.
-
--  Além disso, como participante do bootcamp de análise de dados da TripleTen, já concluí 13 projetos de problemas reais que empresas podem ter, abrangendo diversas áreas, como ETL, cohorts, análise estatística, automação e machine learning.
-
--  <b>Dentre os meus projetos, dou destaque aos seguintes:
-  - Um projeto para um banco, onde trabalhei elaborando e analisando os KPI do banco com base nas transações realizadas pelos clientes. O projeto está disponível em:  </b> <a href="https://github.com/renanpan/Bank_project" target="_blank">Bank_project</a>
-  - Um projeto utilizando machine learning para prever a rotatividade de clientes de uma academia o qual está disponível em: <a href="https://github.com/renanpan/Rotatividade_de_clientes_com_ML" target="_blank">Rotatividade_de_clientes_com_ML</a>
-  - E um projeto onde trabalho a análise de coorte de um comércio eletrônico e também realizo a segmentação de clientes via RFM e por produtos por exemplo. Disponível em: <a href="https://github.com/renanpan/Segmentando_clientes" target="_blank">Segmentando_clientes</a>
--  Estou sempre aberto para colaborações e trocas de experiências na área de análise de dados.
-
-
-### Contato
+## Hi, my name is Renan Pan. I'm a data analyst and it's a pleasure to have you here.
+- My professional focus is on data analysis with Python, where I apply visualization and statistical analysis techniques to identify meaningful trends. I have experience working with databases using SQL, and I use tools such as Power BI and Tableau to build interactive dashboards that deliver valuable insights for businesses.
+-  On top of that, as a student in TripleTen's data analysis bootcamp, I've completed 13 projects based on real-world business problems, covering areas such as ETL, cohort analysis, statistical analysis, automation, and machine learning.
+-  <b>Among my projects, I'd like to highlight the following:
+  - A project for a bank, where I designed and analyzed the bank's KPIs based on customer transactions. Available at:  </b> <a href="https://github.com/renanpan/Bank_project" target="_blank">Bank_project</a>
+  - A project using machine learning to predict customer churn for a gym, available at: <a href="https://github.com/renanpan/Rotatividade_de_clientes_com_ML" target="_blank">Rotatividade_de_clientes_com_ML</a>
+  - And a project where I run a cohort analysis for an e-commerce business and also segment customers using RFM and by product, for example. Available at: <a href="https://github.com/renanpan/Segmentando_clientes" target="_blank">Segmentando_clientes</a>
+-  I'm always open to collaborating and exchanging experiences in the data analysis field.
+### Contact
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
-Além do github, pode encontrar mais do meu perfil profissional no <a href="https://www.linkedin.com/in/renan-pan/" target="_blank">Linkedin</a>
+Besides GitHub, you can find more of my professional profile on <a href="https://www.linkedin.com/in/renan-pan/" target="_blank">LinkedIn</a>
+You can also find me on Discord under the username <b>renan_pan</b>
 
-Você também pode me achar no discord pelo nome de usuário <b>renan_pan</b>
 <!---
 Preciso ver para atualizar com mais informações. Ainda está fraco.
 --->
