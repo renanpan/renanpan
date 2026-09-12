@@ -4,7 +4,7 @@
 -  <b>Among my projects, I'd like to highlight the following:
   - A project for a bank, where I designed and analyzed the bank's KPIs based on customer transactions. Available at:  </b> <a href="https://github.com/renanpan/Bank_project" target="_blank">Bank_project</a>
   - A project using machine learning to predict customer churn for a gym, available at: <a href="https://github.com/renanpan/Customer_churn" target="_blank">Customer_churn</a>
-  - And a project where I run a cohort analysis for an e-commerce business and also segment customers using RFM and by product, for example. Available at: <a href="https://github.com/renanpan/Segmenting_customers="_blank">Segmenting_customers</a>
+  - And a project where I run a cohort analysis for an e-commerce business and also segment customers using RFM and by product, for example. Available at: <a href="https://github.com/renanpan/Segmenting_customers" target="_blank">Segmenting_customers</a>
 -  I'm always open to collaborating and exchanging experiences in the data analysis field.
 ### Contact
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
